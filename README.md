@@ -6,9 +6,8 @@
 - 🤔 I’m looking for help with anomaly detection with AI
 - 💬 Ask me about Python/C#/dotnet/Windows
 - 📫 How to reach me: @shyn
-- 😄 Pronouns: Xin in Chinese
 - ⚡ Fun fact: tbc
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yihong0618)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
